@@ -6,6 +6,8 @@
 //
 
 import XCTest
+
+// There was shockingly little "buisness logic" to test in this example which is where unit tests are best suited. 
 @testable import UnsplashExample
 
 class UnsplashExampleTests: XCTestCase {

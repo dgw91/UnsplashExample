@@ -148,7 +148,7 @@
 			isa = PBXGroup;
 			children = (
 				9E14F8B72693557C0053A5C6 /* UnsplashExample */,
-				9E14F8D12693557D0053A5C6 /* UnsplashExampleTests */,
+				9E14F8D12693557D0053A5C6 /* UnsplashTests */,
 				9E14F8DC2693557D0053A5C6 /* UnsplashExampleUITests */,
 				9E14F8B62693557C0053A5C6 /* Products */,
 				12963EFB50F6D7BBF4007B50 /* Pods */,
@@ -183,13 +183,13 @@
 			path = UnsplashExample;
 			sourceTree = "<group>";
 		};
-		9E14F8D12693557D0053A5C6 /* UnsplashExampleTests */ = {
+		9E14F8D12693557D0053A5C6 /* UnsplashTests */ = {
 			isa = PBXGroup;
 			children = (
 				9E14F8D22693557D0053A5C6 /* UnsplashExampleTests.swift */,
 				9E14F8D42693557D0053A5C6 /* Info.plist */,
 			);
-			path = UnsplashExampleTests;
+			path = UnsplashTests;
 			sourceTree = "<group>";
 		};
 		9E14F8DC2693557D0053A5C6 /* UnsplashExampleUITests */ = {
