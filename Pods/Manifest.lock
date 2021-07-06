@@ -1,0 +1,16 @@
+PODS:
+  - UnsplashPhotoPicker (1.2.0)
+
+DEPENDENCIES:
+  - UnsplashPhotoPicker (~> 1.2)
+
+SPEC REPOS:
+  trunk:
+    - UnsplashPhotoPicker
+
+SPEC CHECKSUMS:
+  UnsplashPhotoPicker: 09400fc1e84dfd04144fa8b204135e6bd2bc5bb2
+
+PODFILE CHECKSUM: 77eaf1dd530eaaebaf27a7e47711eb9a48827a77
+
+COCOAPODS: 1.10.1

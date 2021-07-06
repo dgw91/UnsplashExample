@@ -1,0 +1,6 @@
+framework module Pods_UnsplashExampleTests {
+  umbrella header "Pods-UnsplashExampleTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
