@@ -21,8 +21,6 @@ struct NetworkConstants {
     // To avoid calling a 3rd party directly and also to protect these keys better.
   private struct Keys {
     static let AccessKey = "kCKXwTYEZ-k1u600JghDiT1ZqF-MXaPjRdHWhx6cHtA"
-    static let Private = "bK2JLmD1v12nd1-uTYktPZULCVexO8SEWdtvLXnGGw8"
-
   }
 
   public static let Domain = Domains.Unsplash
